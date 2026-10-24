@@ -1,0 +1,9 @@
+/db.json
+/combined.log
+/error.log
+/shutdown.log
+/node_modules/
+/yarn.lock
+/client/dist
+/client/node_modules
+/secrets.ts
